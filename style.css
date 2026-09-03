@@ -70,7 +70,7 @@ main {
 }
 
 .logo span {
-    color: var(--primary);
+    color: black;
 }
 
 .nav-links {
